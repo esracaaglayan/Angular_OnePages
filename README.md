@@ -1,2 +1,2 @@
 # Angular_OnePages
-OnePage ANgular Eğitimi
+OnePage Angular Eğitimi
